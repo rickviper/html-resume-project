@@ -10,4 +10,4 @@
   <li>Multipage funcationalities have been provided by using anchor tags with 'href' attribute.</li>
   <li>At last, footer tags have been used to display some copyright messages at the footer end of the website.</li>
 </ul>
-<p>This project covers almost all the basic structuring implementations of html.</p>
+<p>This example project covers almost all the basic structuring implementations of html.</p>
