@@ -1,4 +1,4 @@
-# resume-project
+#html-resume-project
 <h1><b>An extremely basic resume/portfolio-type website design</b></h1>
 <br>
 <p>A Multipage site created by using only HTML. I created this when I was leraning the basics of HTML.</p>
