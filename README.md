@@ -1,7 +1,7 @@
 # html-resume-project
 <h1><b>An extremely basic resume/portfolio-type website design</b></h1>
 <br>
-<p>A Multipage site created by using only HTML,I created this when I was learning the basics of HTML.</p>
+<p>A Multipage site created by using only HTML, I had created this when I was learning about the basics of HTML.</p>
 <ul>
   <li>HTML boiler plate has been used to generate the overall structure</li>
   <li>Three heading styles (h1-h3) have been used to define the headings</li>
